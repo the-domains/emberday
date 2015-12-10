@@ -1,0 +1,28 @@
+name: emberday
+favicon: null
+layout_spectrum: 0.8810279339086264
+typography_spectrum: 0.0848956173285842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.34274734393693507
+  lightness: 0.9650560161098838
+  saturation: 0.310113160405308
+  rhythmicContrast: 0.8062382105272263
+purpose: []
